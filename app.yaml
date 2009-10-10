@@ -1,5 +1,5 @@
-application: jamtodaycdn
-version: 0-02
+application: satsolve
+version: 0-01
 runtime: python
 api_version: 1
 
